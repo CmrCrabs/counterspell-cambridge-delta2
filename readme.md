@@ -1,5 +1,10 @@
 # Title Here
-our submission to hack clubs counterspell 2024. Controls are listed below, build is currently only for windows / macos.
+our submission to hack club counterspell 2024. Controls are listed below, build is currently only for windows / macos.
+
+[Preview][./capsule_art.png]
 
 Controls:
-
+Left click - attack
+right click - parry
+wasd - move
+space - jump
